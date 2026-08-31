@@ -15,7 +15,7 @@ int main()
     cin >> x >> y;
 
    if (y == 0) {
-        cout << "Error: Division by zero is not allowed." << endl;
+        cout << "Error: Division by zero is not allowed!!!!." << endl;
       
 
     }
