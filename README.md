@@ -1,0 +1,1 @@
+[![C++ CI](https://github.com/Attainables/SoftwareENG/actions/workflows/build.yml/badge.svg?branch=cicd)](https://github.com/Attainables/SoftwareENG/actions/workflows/build.yml)
